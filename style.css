@@ -1,0 +1,123 @@
+*{
+    text-decoration: none;
+}
+
+.hed .sec1 {
+    display: flex;
+    background-color: black;
+    width: 100%;
+    height: 70px;
+    margin-top: 120px;
+    margin-bottom: 100px;
+    justify-content: space-evenly;
+
+
+}
+.hed .sec1 h1 {
+    margin: 10px ;
+    margin-left: 100px;
+}
+
+.hed .sec1 button{
+    border-radius: 70px;
+    width: 160px;
+    height: 60px;
+    margin-top: 5px;
+    background-color: aqua;
+}
+
+.hed .sec2 {
+    display: flex;
+    background-color: black;
+    width: 100%;
+    height: 70px;
+    margin-top: 120px;
+    margin-bottom: 100px;
+
+}
+.hed .sec1 ul li {
+    padding: 0px 25px;
+}
+.hed .sec3 {
+    display: flex;
+    background-color: black;
+    width: 100%;
+    height: 70px;
+    margin-top: 120px;
+    margin-bottom: 100px;
+
+
+}
+
+.hed .sec1 ul li a {
+    color: white;
+    align-items: center;
+    display: flex;
+    list-style: none;
+    direction: none;
+    text-decoration: none;
+    margin-top: 10px;
+    
+
+}
+.hed .sec1 ul li {
+    list-style: none;
+    direction: none;
+    text-decoration: none;
+    padding: 0px 25px;
+}
+.hed h1 {
+    color: white;
+}
+.hed .sec1 ul{
+    display: flex;
+    color: white;
+}
+.hed .sec2 ul {
+    display: flex;
+    align-items: center;
+    
+   
+}
+.hed .sec2 ul li a{
+    color: white;
+}
+.hed .sec2 ul li {
+    padding: 0px 25px;
+    
+}
+.hed .sec2 {
+    justify-content: space-between;
+    
+}
+.hed .sec2 h1 {
+    margin: 15px 60px;
+
+}
+.hed .sec3 {
+    display: flex;
+    justify-content: space-between;
+}
+.hed .sec3 ul{
+    display: flex;
+    padding: 0px 30px;
+}
+.hed .sec3 ul li a{
+    color: white;
+}
+.hed .sec3 ul li {
+    padding: 10px 60px;
+}
+.hed .sec3 ul button{
+    background-color: aqua;
+    width: 160px;
+    border-radius: 70px;
+    height: 50px;
+}
+.hed .sec2 ul button{
+    background-color: aqua;
+    border-radius: 80px;
+    width: 150px;
+    height: 60px;
+}
+  
